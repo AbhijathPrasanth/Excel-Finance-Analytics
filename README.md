@@ -8,6 +8,8 @@
 
    **3.** Create Gross Margin % (GM%) reports by _[Subzone](https://github.com/AbhijathPrasanth/Excel-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters%20(sub_zone).pdf)_
 
+- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
